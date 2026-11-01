@@ -1,0 +1,6 @@
+{
+  "name": "CNS Detailing Christchurch",
+  "description": "Professional car detailing and paint correction services in Casebrook, Christchurch. 5.0 rated car wash, ceramic coating, and showroom detailing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
